@@ -1,0 +1,15 @@
+body{
+    background-color: salmon;
+}
+div{
+    margin-top: 100px;
+    margin-bottom: 650px;
+    width:0px;
+    border-style: solid;
+    border-width: 100px;
+    border-radius: 50%;
+    border-top-color: green;
+    border-left-color: yellow;
+    border-right-color: black;
+    border-bottom-color: transparent;
+}
